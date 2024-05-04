@@ -1,0 +1,46 @@
+# Built / Auto-generated data
+/[Bb]uild/
+/[Ll]ibrary/
+/[Oo]bj/
+/[Tt]emp/
+/[Tt]est[Rr]esults/
+/[Uu]nity[Yy]eT/
+/[Uu]nity[Ll]ogs/
+
+# MemoryCaptures can get excessive in size.
+/MemoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Uncomment this line if you wish to ignore the asset store tools plugin
+# /[Aa]ssets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop / Rider generated files
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.opendb.meta
+*.VC.db.meta
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.assets.meta
+*.asset.meta
+*.unitypackage
+
+# Custom
+/[Bb]uilds/
+/[Oo]utput/
+/[Ll]ogs/
